@@ -52,4 +52,39 @@ For simplicity, binary classification (`toxic` / `non-toxic`) is used in this pr
 ---
 
 ## 🖼️ Screenshots
+### Application Home
+![App Home](Home.png)  or
+
+<img width="1910" height="871" alt="Home" src="https://github.com/user-attachments/assets/cec8d156-78ab-4217-8a3e-e98325631743" />
+
+### Toxic Comment Prediction
+![Toxic Result](Toxic.png)  or
+
+<img width="1896" height="834" alt="Toxic" src="https://github.com/user-attachments/assets/9c665485-19e4-439b-beb1-78367cb9890c" />
+
+
+### Non-Toxic Comment Prediction
+![Non-Toxic Result](Non_toxic.png) or 
+
+<img width="1909" height="875" alt="Non_toxic" src="https://github.com/user-attachments/assets/53156ce3-f821-4f48-aa25-a992f0d15d4c" />
+
+
+
+---
+
+👤 Author
+
+Aniket Kumar
+B.Tech Student
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
 
